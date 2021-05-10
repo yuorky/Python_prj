@@ -1,3 +1,3 @@
 # Python_prj
 
-Here includes some python projects I did.
+Here includes some codes I did in python.
